@@ -4,19 +4,19 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/SydCS/Awesome-Awesomes-and-Surveys-in-Deep-Learning/graphs/commit-activity)
 
-# Semi-Supervised Learning
+## Semi-Supervised Learning
 
 | Paper                                                                            | Venue | Repo                                                                                                                                                                                                                  |
 | -------------------------------------------------------------------------------- | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [An Overview of Deep Semi-Supervised Learning](https://arxiv.org/abs/2006.05278) |       | [awesome-semi-supervised-learning](https://github.com/yassouali/awesome-semi-supervised-learning) ![Star](https://img.shields.io/github/stars/yassouali/awesome-semi-supervised-learning.svg?style=social&label=Star) |
 
-# Active Learning
+## Active Learning
 
 | Paper | Venue | Repo                                                                                                                                                                                       |
 | ----- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |       |       | [awesome-active-learning](https://github.com/SupeRuier/awesome-active-learning) ![Star](https://img.shields.io/github/stars/SupeRuier/awesome-active-learning.svg?style=social&label=Star) |
 
-# Transfer Learning
+## Transfer Learning
 
 | Paper | Venue | Repo                                                                                                                                                                                                                                                   |
 | ----- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -24,14 +24,14 @@
 |       |       | [Awesome-Parameter-Efficient-Transfer-Learning](https://github.com/synbol/Awesome-Parameter-Efficient-Transfer-Learning) ![Star](https://img.shields.io/github/stars/synbol/Awesome-Parameter-Efficient-Transfer-Learning.svg?style=social&label=Star) |
 |       |       | [awesome-model-transferability-estimation](https://github.com/YuheD/awesome-model-transferability-estimation) ![Star](https://img.shields.io/github/stars/YuheD/awesome-model-transferability-estimation.svg?style=social&label=Star)                  |
 
-# Domain Adaptation
+## Domain Adaptation
 
 | Paper                                                                                                        | Venue     | Repo                                                                                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------ | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [A Comprehensive Survey on Test-Time Adaptation under Distribution Shifts](https://arxiv.org/abs/2303.15361) | IJCV 2024 | [awesome-test-time-adaptation](https://github.com/tim-learn/awesome-test-time-adaptation) ![Star](https://img.shields.io/github/stars/tim-learn/awesome-test-time-adaptation.svg?style=social&label=Star) |
 | [In Search of Lost Online Test-time Adaptation: A Survey](https://arxiv.org/abs/2310.20199)                  | IJCV 2024 | [OTTA_ViT_survey](https://github.com/Jo-wang/OTTA_ViT_survey) ![Star](https://img.shields.io/github/stars/Jo-wang/OTTA_ViT_survey.svg?style=social&label=Star)                                            |
 
-# OOD Detection
+## OOD Detection
 
 | Paper                                                                                                                           | Venue     | Repo                                                                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -40,7 +40,7 @@
 | [Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey](https://arxiv.org/abs/2407.21794) |           | [Awesome-OOD-VLM](https://github.com/AtsuMiyai/Awesome-OOD-VLM) ![Star](https://img.shields.io/github/stars/AtsuMiyai/Awesome-OOD-VLM.svg?style=social&label=Star)                                                                             |
 | [Recent Advances in OOD Detection: Problems and Approaches](https://arxiv.org/abs/2409.11884)                                   |           | [Awesome-Out-Of-Distribution-Detection](https://github.com/shuolucs/Awesome-Out-Of-Distribution-Detection) ![Star](https://img.shields.io/github/stars/shuolucs/Awesome-Out-Of-Distribution-Detection.svg?style=social&label=Star)             |
 
-# Continual
+## Continual
 
 | Paper                                                                                                        | Venue      | Repo                                                                                                                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------ | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -48,7 +48,7 @@
 | [Continual Learning with Pre-Trained Models: A Survey](https://arxiv.org/abs/2401.16386)                     | IJCAI 2024 | [LAMDA-PILOT](https://github.com/sun-hailong/LAMDA-PILOT) ![Star](https://img.shields.io/github/stars/sun-hailong/LAMDA-PILOT.svg?style=social&label=Star)                                                                       |
 | [Recent Advances of Multimodal Continual Learning: A Comprehensive Survey](https://arxiv.org/abs/2410.05352) |            | [Awesome-Multimodal-Continual-Learning](https://github.com/LucyDYu/Awesome-Multimodal-Continual-Learning) ![Star](https://img.shields.io/github/stars/LucyDYu/Awesome-Multimodal-Continual-Learning.svg?style=social&label=Star) |
 
-# VLM
+## VLM
 
 | Paper                                                                                 | Venue      | Repo                                                                                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -56,7 +56,7 @@
 | [Towards Open Vocabulary Learning: A Survey](https://arxiv.org/abs/2306.15880)        | TPAMI 2024 | [Awesome-Open-Vocabulary](https://github.com/jianzongwu/Awesome-Open-Vocabulary) ![Star](https://img.shields.io/github/stars/jianzongwu/Awesome-Open-Vocabulary.svg?style=social&label=Star)                                                  |
 |                                                                                       |            | [Awesome-Prompt-Adapter-Learning-for-VLMs](https://github.com/zhengli97/Awesome-Prompt-Adapter-Learning-for-VLMs) ![Star](https://img.shields.io/github/stars/zhengli97/Awesome-Prompt-Adapter-Learning-for-VLMs.svg?style=social&label=Star) |
 
-# MLLM
+## MLLM
 
 | Paper                                                                                                                           | Venue      | Repo                                                                                                                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -66,16 +66,18 @@
 | [From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking](https://arxiv.org/abs/2406.14859)                      | EMNLP 2024 |                                                                                                                                                                                                                                           |
 | [Jailbreak Attacks and Defenses against Multimodal Generative Models: A Survey](https://arxiv.org/abs/2411.09259)               |            | [Awesome-Multimodal-Jailbreak](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak) ![Star](https://img.shields.io/github/stars/liuxuannan/Awesome-Multimodal-Jailbreak.svg?style=social&label=Star)                               |
 |                                                                                                                                 |            | [Awesome-LVLM-Hallucination](https://github.com/Purshow/Awesome-LVLM-Hallucination) ![Star](https://img.shields.io/github/stars/Purshow/Awesome-LVLM-Hallucination.svg?style=social&label=Star)                                           |
+|                                                                                                                                 |            | [Awesome-LVLM-Hallucination](https://github.com/NishilBalar/Awesome-LVLM-Hallucination)                                                                                                                                                   |
 | [Hallucination of Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2404.18930)                                 |            | [Awesome-MLLM-Hallucination](https://github.com/showlab/Awesome-MLLM-Hallucination) ![Star](https://img.shields.io/github/stars/showlab/Awesome-MLLM-Hallucination.svg?style=social&label=Star)                                           |
 
-# LLM
+## LLM
 
 | Paper                                                                                                                                        | Venue                      | Repo                                                                                                                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)                                                                        |                            | [LLMSurveyGithub](https://github.com/RUCAIBox/LLMSurvey) ![Star](https://img.shields.io/github/stars/RUCAIBox/LLMSurvey.svg?style=social&label=Star)                                                                                  |
+| [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)                                                                        |                            | [LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) ![Star](https://img.shields.io/github/stars/RUCAIBox/LLMSurvey.svg?style=social&label=Star)                                                                                        |
 | [Foundational Challenges in Assuring Alignment and Safety of Large Language Models](https://arxiv.org/abs/2404.09932)                        | TMLR 2024                  |                                                                                                                                                                                                                                       |
 |                                                                                                                                              |                            | [awesome-llm-understanding-mechanism](https://github.com/zepingyu0512/awesome-llm-understanding-mechanism) ![Star](https://img.shields.io/github/stars/zepingyu0512/awesome-llm-understanding-mechanism.svg?style=social&label=Star)  |
 | [A Survey on In-context Learning](https://arxiv.org/abs/2301.00234)                                                                          |                            |                                                                                                                                                                                                                                       |
+|                                                                                                                                              |                            | [Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention)                                                                                                                                         |
 | [Attention Heads of Large Language Models: A Survey](https://arxiv.org/abs/2409.03752)                                                       |                            | [Awesome-Attention-Heads](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads) ![Star](https://img.shields.io/github/stars/IAAR-Shanghai/Awesome-Attention-Heads.svg?style=social&label=Star)                                    |
 | [Merge, Ensemble, and Cooperate! A Survey on Collaborative Strategies in the Era of Large Language Models](https://arxiv.org/abs/2407.06089) |                            |                                                                                                                                                                                                                                       |
 | [LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods](https://arxiv.org/abs/2412.05579)                                   |                            | [Awesome-LLMs-as-Judges](https://github.com/CSHaitao/Awesome-LLMs-as-Judges)                                                                                                                                                          |
@@ -92,7 +94,7 @@
 | [A Closer Look at Machine Unlearning for Large Language Models](https://arxiv.org/abs/2410.08109)                                            |                            | [closer-look-LLM-unlearning](https://github.com/sail-sg/closer-look-LLM-unlearning) ![Star](https://img.shields.io/github/stars/sail-sg/closer-look-LLM-unlearning.svg?style=social&label=Star)                                       |
 | [Machine Unlearning in Generative AI: A Survey](https://arxiv.org/abs/2407.20516)                                                            |                            | [Awesome-GenAI-Unlearning](https://github.com/franciscoliu/Awesome-GenAI-Unlearning) ![Star](https://img.shields.io/github/stars/franciscoliu/Awesome-GenAI-Unlearning.svg?style=social&label=Star)                                   |
 
-# Diffusion
+## Diffusion
 
 | Paper                                                                                                            | Venue                   | Repo                                                                                                                                                                                                                                                     |
 | ---------------------------------------------------------------------------------------------------------------- | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -102,7 +104,7 @@
 | [Adversarial Attacks and Defenses on Text-to-Image Diffusion Models: A Survey](https://arxiv.org/abs/2407.15861) | Information Fusion 2024 | [Awesome-AD-on-T2IDM](https://github.com/datar001/Awesome-AD-on-T2IDM) ![Star](https://img.shields.io/github/stars/datar001/Awesome-AD-on-T2IDM.svg?style=social&label=Star)                                                                             |
 | [Replication in Visual Diffusion Models: A Survey and Outlook](https://arxiv.org/abs/2408.00001)                 |                         | [Awesome-Diffusion-Replication](https://github.com/WangWenhao0716/Awesome-Diffusion-Replication) ![Star](https://img.shields.io/github/stars/WangWenhao0716/Awesome-Diffusion-Replication.svg?style=social&label=Star)                                   |
 
-# MISC
+## MISC
 
 | Paper                                                                                                                           | Venue                            | Repo                                                                                                                                                                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -114,3 +116,4 @@
 | [Learn From Model Beyond Fine-Tuning: A Survey](https://arxiv.org/abs/2310.08184)                                               | Nature Machine Intelligence 2024 | [Awesome-Learn-from-Model](https://github.com/ruthless-man/Awesome-Learn-from-Model) ![Star](https://img.shields.io/github/stars/ruthless-man/Awesome-Learn-from-Model.svg?style=social&label=Star)                                                                              |
 | [A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning](https://arxiv.org/abs/2307.09218)             | TPAMI 2024                       | [Awesome-Forgetting-in-Deep-Learning](https://github.com/EnnengYang/Awesome-Forgetting-in-Deep-Learning) ![Star](https://img.shields.io/github/stars/EnnengYang/Awesome-Forgetting-in-Deep-Learning.svg?style=social&label=Star)                                                 |
 |                                                                                                                                 |                                  | [Awesome-Optimal-Transport-in-Deep-Learning](https://github.com/changwxx/Awesome-Optimal-Transport-in-Deep-Learning) ![Star](https://img.shields.io/github/stars/changwxx/Awesome-Optimal-Transport-in-Deep-Learning.svg?style=social&label=Star)                                |
+|                                                                                                                                 |                                  | [awesome-mm-chat](https://github.com/hhaAndroid/awesome-mm-chat)                                                                                                                                                                                                                 |
