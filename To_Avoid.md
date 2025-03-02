@@ -16,3 +16,11 @@ https://www.zhihu.com/question/1235573602
 https://openreview.net/forum?id=n6Gg0D2jWT
 
 https://openreview.net/forum?id=cIKQp84vqN
+
+---
+
+https://www.zhihu.com/question/347113421 白翔
+
+倪冰冰
+
+https://www.zhihu.com/question/641549544 杨珉
